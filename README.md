@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Daniyal!
+# 👋 Hi there, I'm Daniyal Javed Choudhary!
 
 Welcome to my GitHub profile!  
 I'm passionate about developing smart IoT solutions, real-time dashboards, and leveraging data analytics for actionable insights.
